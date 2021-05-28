@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qall Me</string>
+    <string name="mime_type">mytype/com.kekmicrosys.qallme</string>
+
+    <!-- Cabeceras: -->
+    <string name="titmisdatos">My data</string>
+    <string name="titagregarcto">Add contact</string>
+    <string name="titcontactos">Contacts</string>
+    <string name="titmicontacto">Contact</string>
+    <string name="titconfirmar">Confirm</string>
+
+    <!-- Etiquetas: -->
+    <string name="lblapellido">Last name...</string>
+    <string name="lblnombre">First name...</string>
+    <string name="lbltelefono">Phone...</string>
+    <string name="lblmapa">Place where was added</string>
+
+    <!-- Botones: -->
+    <string name="btnsalir">Exit</string>
+    <string name="btnmisdatos">My data</string>
+    <string name="btncontactos">Contacts</string>
+    <string name="btnguardar">Save</string>
+    <string name="btncancelar">Cancel</string>
+    <string name="btnagregar">Add</string>
+    <string name="btnrechazar">Reject</string>
+    <string name="btneliminar">Delete</string>
+    <string name="btnvolver">Back</string>
+    <string name="btnsi">Yes</string>
+    <string name="btnno">No</string>
+
+    <!-- Mensajes: -->
+    <string name="msj_00">Join the back of your smartphone with another and press here</string>
+    <string name="msj_01">Enter your details to continue</string>
+    <string name="msj_02">Wrong last name</string>
+    <string name="msj_03">Wrong name</string>
+    <string name="msj_04">Wrong phone number</string>
+    <string name="msj_05">Error: you must enable NFC</string>
+    <string name="msj_06">Contact was added</string>
+    <string name="msj_07">Error: unable to add contact</string>
+    <string name="msj_08">Do you want to delete this contact?</string>
+</resources>

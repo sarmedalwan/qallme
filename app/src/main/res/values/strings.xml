@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Qall Me</string>
+    <string name="mime_type">mytype/com.kekmicrosys.qallme</string>
+
+    <!-- Cabeceras: -->
+    <string name="titmisdatos">Mis datos</string>
+    <string name="titagregarcto">Agregar contacto</string>
+    <string name="titcontactos">Contactos</string>
+    <string name="titmicontacto">Contacto</string>
+    <string name="titconfirmar">Confirmar</string>
+
+    <!-- Etiquetas: -->
+    <string name="lblapellido">Apellido...</string>
+    <string name="lblnombre">Nombre...</string>
+    <string name="lbltelefono">Teléfono...</string>
+    <string name="lblmapa">Lugar donde fue agregado</string>
+
+    <!-- Botones: -->
+    <string name="btnsalir">Salir</string>
+    <string name="btnmisdatos">Mis datos</string>
+    <string name="btncontactos">Contactos</string>
+    <string name="btnguardar">Guardar</string>
+    <string name="btncancelar">Cancelar</string>
+    <string name="btnagregar">Agregar</string>
+    <string name="btnrechazar">Rechazar</string>
+    <string name="btneliminar">Eliminar</string>
+    <string name="btnvolver">Volver</string>
+    <string name="btnsi">Si</string>
+    <string name="btnno">No</string>
+
+    <!-- Mensajes: -->
+    <string name="msj_00">Junta la parte trasera de tu smartphone con la de otro y presiona aquí</string>
+    <string name="msj_01">Ingresa tus datos para poder continuar</string>
+    <string name="msj_02">Apellido incorrecto</string>
+    <string name="msj_03">Nombre incorrecto</string>
+    <string name="msj_04">Número incorrecto</string>
+    <string name="msj_05">Error: Debe habilitar NFC</string>
+    <string name="msj_06">Contacto agregado</string>
+    <string name="msj_07">Error: no se pudo agregar el contacto</string>
+    <string name="msj_08">¿Desea eliminar este contacto?</string>
+</resources>
