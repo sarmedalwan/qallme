@@ -19,7 +19,7 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String LOG_TAG = "QallMe_PraiseKek";
+    private static final String LOG_TAG = "QallMe_Tag";
     public AdminSQLiteOpenHelper admin;
     public SQLiteDatabase bd;
     private NfcAdapter mNfcAdapter;
