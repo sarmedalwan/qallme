@@ -22,7 +22,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MyContactActivity extends AppCompatActivity implements OnMapReadyCallback {
-    private static final String LOG_TAG = "QallMe_PraiseKek";
+    private static final String LOG_TAG = "QallMe_tag";
     GoogleMap mapa2;
     private AdminSQLiteOpenHelper admin;
     private SQLiteDatabase bd;
